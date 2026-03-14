@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+
+<title>McKinley</title>
+
+</head>
+
+<body class="bg-white">
+
+<!-- TOP BAR -->
+
+<div class="bg-topbar p-8">
+
+<div class="flex-between w-1200 m-0">
+
+<div class="text-12">
+We have moved to the State Street Tower. View the map for details.
+</div>
+
+<div class="flex">
+<div class="w-14 h-14 m-5"></div>
+<div class="w-14 h-14 m-5"></div>
+<div class="w-14 h-14 m-5"></div>
+</div>
+
+</div>
+
+</div>
+
+
+
+<!-- HEADER -->
+
+<div class="flex-between w-1200 m-20">
+
+<div class="text-22 text-myblue">
+McKinley
+</div>
+
+<div class="flex">
+
+<div class="m-10 text-14">Service</div>
+<div class="m-10 text-14">About</div>
+<div class="m-10 text-14">Article</div>
+<div class="m-10 text-14">Contact</div>
+
+</div>
+
+<div class="flex">
+
+<div class="text-14 m-10">
+(302) 555-0100
+</div>
+
+<button class="bg-myblue text-white p-10 text-13">
+Request Consultation
+</button>
+
+</div>
+
+</div>
+
+
+
+<!-- HERO -->
+
+<div class="bg-light p-80">
+
+<div class="flex-between w-1200">
+
+<div class="w-450">
+
+<h1 class="text-36 text-myblue m-10">
+Corporate Legal Representation
+</h1>
+
+<p class="text-14 m-10">
+We understand the difficulties and stress that your legal issues bring.
+Our team is committed to providing you with the individual attention,
+communication, and dedication you deserve.
+</p>
+
+<button class="bg-myblue text-white p-12 text-13">
+Request Consultation
+</button>
+
+</div>
+
+<div class="w-450">
+<img src="building.png" class="w-450">
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
